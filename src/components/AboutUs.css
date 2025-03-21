@@ -1,0 +1,39 @@
+
+.about-us-page {
+    padding: 20px;
+    margin: 20px;
+    /* background: linear-gradient(135deg, #d2a7a6, #ffebcd, #ffe4e1, #ffdab9);; */
+    background-color: #f9d3eb;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .about-us-page h1 {
+    color: #4682b4;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .about-us-page p {
+    color: #4b0082;
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .about-us-page p::first-letter {
+    font-size: 2em;
+    color: #6a5acd;
+  }
+  
+  .about-us-page p:last-child {
+    font-style: italic;
+    color: #000080;
+  }
+  

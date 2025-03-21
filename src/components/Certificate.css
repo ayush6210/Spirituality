@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&family=Open+Sans&display=swap');
+
+/* Global styles for the page */
+/* body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+} */
+.certificate-container {
+    margin-bottom: 10px; /* Add space between the content and footer */
+  }
+  
+.certificate-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  width: 90%;
+  max-width: 800px;
+  padding: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* Certificate styles */
+.certificate {
+  position: relative;
+  width: 100%;
+  background-color: #fbfbfb;
+  border: 5px solid #98c230;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 0;
+}
+
+.certificate-header {
+  font-family: 'Pinyon Script', cursive;
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.certificate-body {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #363535;
+  margin: 20px 0;
+}
+
+.highlight {
+  font-weight: bold;
+  color: #4CAF50;
+}
+
+/* Hide form elements during PDF generation */
+.hide-form-elements .student-details {
+  display: none;
+}
+
+/* Styles for the input fields and download button */
+.student-details {
+  margin-top: 20px;
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.student-details label {
+  font-size: 16px;
+  display: block;
+  margin-bottom: 5px;
+  
+}
+
+.student-details input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  
+}
+
+.student-details button {
+  padding: 10px 20px;
+  background-color: #25983a;
+  color: rgb(254, 254, 254);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.student-details button:hover {
+  background-color: #0056b3;
+}
+
+.student-details button:active {
+  background-color: #004085;
+}
+
+/* Footer styles for the certificate */
+.certificate-footer {
+  font-size: 14px;
+  margin-top: 30px;
+  color: #666666;
+}
+
+/* Center alignment for the certificate content */
+.certificate-header,
+.certificate-body {
+  text-align: center;
+}
