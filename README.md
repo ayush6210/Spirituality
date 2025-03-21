@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+🌟 Spirituality 101 🌟
+Your guide to spiritual growth and learning.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Hosted Live At: Spirituality101.netlify.app
 
-## Available Scripts
+🔑 Access Credentials:
 
-In the project directory, you can run:
+Username: Your KIIT email ID
+Password: sp
 
-### `npm start`
+🎯 About the Project
+Spirituality 101 is an interactive and immersive web application designed to introduce users to the realm of spirituality. From insightful videos to engaging quizzes, this platform combines education with an enjoyable user experience. Whether you're just beginning your spiritual journey or looking to deepen your understanding, this app is your perfect companion!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🌟 Features
+📹 Video Integration: Top content from Biraja Isac Sir.
+🧩 Interactive Quizzes: Test your knowledge and understanding.
+📚 Category-based Learning: Discover spirituality through well-defined categories.
+🎨 Modern UI/UX: Clean, responsive, and user-friendly design.
+🌐 Deployed on Netlify: Seamless and fast hosting.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🛠️ Tech Stack
+Frontend: React.js
+Backend: Node.js (future updates may include backend integration)
+API: YouTube Data API
+Hosting: Netlify
 
-### `npm test`
+🚀 Getting Started
+Follow these steps to explore or contribute to the project:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1️⃣ Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/ayush6210/Spirituality.git
+2️⃣ Install Dependencies
+Navigate to the project directory and install required packages:
 
-### `npm run build`
+bash
+Copy
+Edit
+cd Spirituality
+npm install
+3️⃣ Start the Development Server
+Run the app locally:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+bash
+Copy
+Edit
+npm start
+4️⃣ Access the Live Application
+Visit the hosted link: https://spirituality101.netlify.app/.
+Use the provided credentials to log in.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🤝 Contributing
+We welcome contributions from everyone! Here's how you can help:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Fork the repository.
+Create a new branch (git checkout -b feature/YourFeature).
+Make your changes and commit them (git commit -m "Add YourFeature").
+Push to your branch (git push origin feature/YourFeature).
+Open a Pull Request!
+📧 Contact
+For any queries or support, feel free to reach out:
 
-### `npm run eject`
+Developer: Ayush Srivastava
+Email: srivastavaayush6210@gmail.com
+🎉 Thank You for Visiting!
+💖 Your support keeps this project alive. Spread the light of spirituality! 🙏
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
