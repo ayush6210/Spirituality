@@ -71,8 +71,8 @@ Open a Pull Request!
 ## 📧 **Contact**
 For any queries or support, feel free to reach out:
 
-**Developer**: Ayush Srivastava
-**Email**: srivastavaayush6210@gmail.com
+- **Developer**: Ayush Srivastava
+- **Email**: srivastavaayush6210@gmail.com
 
 ## 🎉 Thank You for Visiting!
 ## 💖 Your support keeps this project alive. Spread the light of spirituality! 🙏
